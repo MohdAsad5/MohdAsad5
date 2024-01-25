@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohd_asad5" target="blank"><img src="https://img.shields.io/twitter/follow/mohd_asad5?logo=twitter&style=for-the-badge" alt="mohd_asad5" /></a> </p>
 
-- 💬 Ask me about **Java, MySQL, React-Js, Hibernate Spring**
+- 💬 Ask me about **Java, MySQL, React-Js, Hibernate, Spring**
 
 - 📫 How to reach me **mdasad3785@gmail.com**
 
