@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MohdAsad5
+- 👋 Hi, I’m @mohdasad5
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning in Full stack development (Java)
 - 💞️ I’m looking to collaborate on ...
