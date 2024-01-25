@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Asad</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40oninross%2Fdo-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63&psig=AOvVaw3wsp-IG1dK8FPXkiWWTZex&ust=1706236541886000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKiX98nA94MDFQAAAAAdAAAAABAF">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <p align="left"> <a href="https://twitter.com/mohd_asad5" target="blank"><img src="https://img.shields.io/twitter/follow/mohd_asad5?logo=twitter&style=for-the-badge" alt="mohd_asad5" /></a> </p>
 
